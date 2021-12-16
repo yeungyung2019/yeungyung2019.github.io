@@ -1,7 +1,7 @@
 # Setup
-title:               yeungyung's git_blog
+title:               yeungyung blog
 tagline:             'Dreaming of ios developer'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Hello, I'm Ju yeungyung, born in 1999 and 23 years old this year. I transferred to Kookmin University in 2021 and am in the third grade of software convergence. My dream is to become an ios developer, and I am studying while listening to Swift lectures in the infron.'
 url:                 https://yeungyung2019.github.io/
 baseurl:             
 paginate:            5
